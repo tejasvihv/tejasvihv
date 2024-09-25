@@ -1,4 +1,4 @@
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+Welcome+to+my+profile!" alt="Typing SVG" /></a
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+Welcome+to+my+profile!" alt="Typing SVG" />
 
 <!--
 **tejasvihv/tejasvihv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
